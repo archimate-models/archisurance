@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="payment"
+    id="1634">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_331.xml#331"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_528.xml#528"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="claim form (paper)"
+    id="1616">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_282.xml#282"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_352.xml#352"/>
+</archimate:FlowRelationship>
